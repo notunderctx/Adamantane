@@ -1,0 +1,5 @@
+.quickdrawchache/
+bot/
+node_modules/
+.env
+output.exe
